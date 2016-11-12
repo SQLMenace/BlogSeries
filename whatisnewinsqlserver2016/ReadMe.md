@@ -1,4 +1,4 @@
 
-Truncate partition
-Blog  post
-Code
+**Truncate partition**<br>
+[Blog  post](http://sqlservercode.blogspot.com/search/label/what%20is%20new%20in%20SQL%20Server%202016) <br>
+[Code] (/whatisnewinsqlserver2016/TruncatePartitions.md)<br><br>
