@@ -1,4 +1,4 @@
-
+You can run this whole code in 1 shot 
 ```SQL
 
 USE tempdb
