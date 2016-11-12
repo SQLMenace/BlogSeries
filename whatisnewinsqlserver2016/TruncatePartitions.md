@@ -1,4 +1,5 @@
-You can run this whole block of code in 1 shot 
+You can run this whole block of code in 1 shot <br>
+Blog  post: [What's new in SQL Server 2016: Truncate partitions](http://sqlservercode.blogspot.com/search/label/what%20is%20new%20in%20SQL%20Server%202016) <br>
 ```SQL
 
 USE tempdb
