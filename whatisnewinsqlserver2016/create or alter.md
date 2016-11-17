@@ -1,4 +1,4 @@
-You can run this whole block of code in 1 shot 
+You can run this whole block of code in 1 shot <br>
 Blog post: What's new in SQL Server 2016: CREATE OR ALTER 
 
 ```SQL
