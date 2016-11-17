@@ -77,10 +77,22 @@ Msg 50000, Level 1, State 10
 (1 row(s) affected)
 */
 
+
+-- Also works with DDL triggers
+
+CREATE OR ALTER TRIGGER safety   
+ON DATABASE   
+FOR DROP_TABLE, ALTER_TABLE   
+AS   
+   PRINT 'You must disable Trigger "safety" to drop or alter tables!'   
+   ROLLBACK;  
+   
+   
 --  drop everything by using
 --  DROP object IF EXISTS
  DROP TABLE IF EXISTS  BooFar
  DROP PROCEDURE IF EXISTS  procTest
  DROP VIEW IF EXISTS  vwTest
+ DROP TRIGGER IF EXISTS  safety
 
 ```
