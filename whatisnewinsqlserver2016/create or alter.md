@@ -1,5 +1,6 @@
 You can run this whole block of code in 1 shot <br>
-Blog post: What's new in SQL Server 2016: CREATE OR ALTER 
+Blog post:[ What's new in SQL Server 2016: CREATE OR ALTER] (http://sqlservercode.blogspot.com/2016/11/whats-new-in-sql-server-2016-create-or.html) <br>
+
 
 ```SQL
 
