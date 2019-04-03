@@ -7,4 +7,4 @@
 
 **CREATE Or ALTER**<br>
 [Blog  post](http://sqlservercode.blogspot.com/2016/11/whats-new-in-sql-server-2016-create-or.html) <br>
-[Code](/whatisnewinsqlserver2016/create or alter.md)<br><br>
+[Code](/whatisnewinsqlserver2016/create_or_alter.md)<br><br>
